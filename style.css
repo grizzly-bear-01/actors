@@ -178,8 +178,9 @@ footer {
     font-family: 'Mate SC', serif;
     margin-top: 20px;
     align-items: center;
-    padding: 10%;
+    padding: 2%;
     gap: 100px;
+    width: 100%;
 
 
 }
@@ -204,12 +205,12 @@ footer {
 
 #name-field {
     height: 30px;
-    width: 300px;
+    width: 200px;
 }
 
 #email-field {
     height: 50px;
-    width: 300px;
+    width: 200px;
 }
 
 
@@ -221,7 +222,7 @@ footer {
     color: rgb(77, 77, 34);
     font-weight: 600;
     height: 40px;
-    width: 150px;
+    width: 120px;
     cursor: crosshair;
     text-align: center;
 }
